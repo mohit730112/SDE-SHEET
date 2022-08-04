@@ -40,7 +40,7 @@ class Solution
 public:
     void setZeroes(vector<vector<int>> &arr)
     {
-        int colm = 1; // This is taken for not affecting the column part of                        every rows
+        int colm = 1; // This is taken for not affecting the column part of every rows
         int rows = arr.size();
         int col = arr[0].size();
 
