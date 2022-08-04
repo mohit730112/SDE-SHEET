@@ -1,5 +1,9 @@
 /// 1.Set Matrix Zeroes
 
+
+//Question Link:-  https://leetcode.com/problems/set-matrix-zeroes/
+
+
 // Here the only problrm is in space complexity.
 
 class Solution
@@ -82,6 +86,10 @@ public:
 */
 
 // 2.Pascal's Triangle
+
+
+//Question Link:-  https://leetcode.com/problems/pascals-triangle/
+
 
 class Solution
 {
